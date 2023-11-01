@@ -1,0 +1,8 @@
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\bin\Debug\udemyCsharp.exe.config
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\bin\Debug\udemyCsharp.exe
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\bin\Debug\udemyCsharp.pdb
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\obj\Debug\udemyCsharp.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\obj\Debug\udemyCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\obj\Debug\udemyCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\obj\Debug\udemyCsharp.exe
+C:\Users\gabri\Desktop\curso unity udemy\C#\udemyCsharp\obj\Debug\udemyCsharp.pdb
